@@ -1,0 +1,67 @@
+.item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+}
+
+.item-details {
+    flex: 1;
+    margin-right: 15px;
+}
+
+.item-details h3 {
+    margin: 0 0 5px 0;
+    color: #333;
+}
+
+.item-details p {
+    margin: 0;
+    color: #666;
+}
+
+.item-actions {
+    display: flex;
+    gap: 10px;
+}
+
+button {
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button.edit {
+    background-color: #2196F3;
+    color: white;
+}
+
+button.delete {
+    background-color: #ff4444;
+    color: white;
+}
+
+button.save {
+    background-color: #4CAF50;
+    color: white;
+}
+
+button.cancel {
+    background-color: #808080;
+    color: white;
+}
+
+input {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}

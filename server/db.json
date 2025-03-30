@@ -1,14 +1,269 @@
 {
-    "doors": [
-        {
-            "id": "1",
-            "name": "Front Door",
-            "status": "open"
-        },
-        {
-            "id": "2",
-            "name": "Back Door",
-            "status": "closed"
-        }
-    ]
+  "doors": [
+    {
+      "id": "3",
+      "name": "Garage Door",
+      "description": "Vehicle entrance door"
+    },
+    {
+      "id": "4",
+      "name": "Side Door",
+      "description": "Secondary entrance door"
+    },
+    {
+      "id": "5",
+      "name": "Patio Door",
+      "description": "Sliding glass door to patio"
+    },
+    {
+      "id": "6",
+      "name": "Basement Door",
+      "description": "Access to basement"
+    },
+    {
+      "id": "7",
+      "name": "Attic Door",
+      "description": "Entrance to attic"
+    },
+    {
+      "id": "8",
+      "name": "Bedroom Door",
+      "description": "Private room door"
+    },
+    {
+      "id": "9",
+      "name": "Bathroom Door",
+      "description": "Door to restroom"
+    },
+    {
+      "id": "10",
+      "name": "Kitchen Door",
+      "description": "Leads to kitchen"
+    },
+    {
+      "id": "11",
+      "name": "Office Door",
+      "description": "Home office entrance"
+    },
+    {
+      "id": "12",
+      "name": "Closet Door",
+      "description": "Storage space access"
+    },
+    {
+      "id": "13",
+      "name": "Balcony Door",
+      "description": "Opens to balcony"
+    },
+    {
+      "id": "14",
+      "name": "Laundry Room Door",
+      "description": "Entrance to laundry area"
+    },
+    {
+      "id": "15",
+      "name": "Pantry Door",
+      "description": "Small food storage room door"
+    },
+    {
+      "id": "16",
+      "name": "Sunroom Door",
+      "description": "Access to sunroom"
+    },
+    {
+      "id": "17",
+      "name": "Terrace Door",
+      "description": "Opens to terrace"
+    },
+    {
+      "id": "18",
+      "name": "Study Room Door",
+      "description": "Entrance to study area"
+    },
+    {
+      "id": "19",
+      "name": "Dining Room Door",
+      "description": "Leads to dining area"
+    },
+    {
+      "id": "20",
+      "name": "Storage Room Door",
+      "description": "Access to storage space"
+    },
+    {
+      "id": "21",
+      "name": "Guest Room Door",
+      "description": "Guest bedroom entrance"
+    },
+    {
+      "id": "22",
+      "name": "Workshop Door",
+      "description": "Access to workshop"
+    },
+    {
+      "id": "23",
+      "name": "Library Door",
+      "description": "Entrance to home library"
+    },
+    {
+      "id": "24",
+      "name": "Hallway Door",
+      "description": "Divides rooms"
+    },
+    {
+      "id": "25",
+      "name": "Security Door",
+      "description": "Reinforced for security"
+    },
+    {
+      "id": "26",
+      "name": "Main Entrance Door",
+      "description": "Primary house entrance"
+    },
+    {
+      "id": "27",
+      "name": "Fire Exit Door",
+      "description": "Emergency exit door"
+    },
+    {
+      "id": "28",
+      "name": "Garden Shed Door",
+      "description": "Access to garden tools"
+    },
+    {
+      "id": "29",
+      "name": "Greenhouse Door",
+      "description": "Leads to greenhouse"
+    },
+    {
+      "id": "30",
+      "name": "Pool House Door",
+      "description": "Entrance to pool house"
+    },
+    {
+      "id": "31",
+      "name": "Gym Room Door",
+      "description": "Access to home gym"
+    },
+    {
+      "id": "32",
+      "name": "Basement Storage Door",
+      "description": "Extra storage in basement"
+    },
+    {
+      "id": "33",
+      "name": "Wine Cellar Door",
+      "description": "Entrance to wine storage"
+    },
+    {
+      "id": "34",
+      "name": "Theater Room Door",
+      "description": "Access to home theater"
+    },
+    {
+      "id": "35",
+      "name": "Game Room Door",
+      "description": "Leads to entertainment space"
+    },
+    {
+      "id": "36",
+      "name": "Sauna Door",
+      "description": "Entrance to sauna"
+    },
+    {
+      "id": "37",
+      "name": "Prayer Room Door",
+      "description": "Sacred space access"
+    },
+    {
+      "id": "38",
+      "name": "Server Room Door",
+      "description": "Secured IT room access"
+    },
+    {
+      "id": "39",
+      "name": "Storage Cabinet Door",
+      "description": "Small storage compartment"
+    },
+    {
+      "id": "40",
+      "name": "Secret Room Door",
+      "description": "Hidden entrance"
+    },
+    {
+      "id": "41",
+      "name": "Laundry Chute Door",
+      "description": "Access to laundry chute"
+    },
+    {
+      "id": "42",
+      "name": "Utility Room Door",
+      "description": "Access to utilities"
+    },
+    {
+      "id": "43",
+      "name": "Pet Room Door",
+      "description": "Dedicated space for pets"
+    },
+    {
+      "id": "44",
+      "name": "Home Bar Door",
+      "description": "Leads to private bar"
+    },
+    {
+      "id": "45",
+      "name": "Backyard Gate",
+      "description": "Access to backyard"
+    },
+    {
+      "id": "46",
+      "name": "Workshop Storage Door",
+      "description": "Storage in workshop"
+    },
+    {
+      "id": "47",
+      "name": "Tool Shed Door",
+      "description": "Access to tool shed"
+    },
+    {
+      "id": "48",
+      "name": "Furnace Room Door",
+      "description": "Access to heating system"
+    },
+    {
+      "id": "49",
+      "name": "Art Studio Door",
+      "description": "Entrance to creative space"
+    },
+    {
+      "id": "50",
+      "name": "Vault Door",
+      "description": "Secure valuables storage"
+    },
+    {
+      "id": "51",
+      "name": "Observatory Door",
+      "description": "Leads to observatory"
+    },
+    {
+      "id": "52",
+      "name": "Green Energy Room Door",
+      "description": "Solar battery storage"
+    },
+    {
+      "id": "53",
+      "name": "Security Checkpoint Door",
+      "description": "Reinforced checkpoint access"
+    },
+    {
+      "id": "54",
+      "name": "Emergency Bunker Door",
+      "description": "Entrance to underground bunker"
+    },
+    {
+      "id": "55",
+      "name": "Workshop Office Door",
+      "description": "Private office in workshop"
+    }
+  ]
 }
